@@ -1,7 +1,7 @@
 <!-- HERO -->
 <div align="center">
   <h1>Ahmer Jamil</h1>
-  <p><b>ML / Data Science • ML Engineer</b></p>
+  <p><b>PhD (Fault Tolerance & Reliable ML) • ML Engineer • Data Scientist</b></p>
   <p>
     <a href="mailto:ahmerjamil.aj@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ahmerjamil.aj%40gmail.com-1f6feb?logo=gmail"></a>
     <a href="https://www.linkedin.com/in/ahmer-jamil582000"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmer%20Jamil-0a66c2?logo=linkedin"></a>
@@ -17,7 +17,7 @@
 
 <!-- TAGLINE -->
 <p align="center">
-  Grad student @ <b>University of Florida</b> • Former Data Scientist / ML Engineer @ <b>Systems Limited</b> <br/>
+  PhD student (Fault Tolerance & Reliable ML) @ <b>University of Florida</b> • Former Data Scientist / ML Engineer @ <b>Systems Limited</b> <br/>
   I build <b>LLM</b> + <b>ML</b> solutions powered by clean data, pragmatic MLOps, and measurable business impact.
 </p>
 
@@ -36,10 +36,10 @@
 <!-- ABOUT -->
 <h2>👋 About Me</h2>
 <ul>
-  <li>Graduate student at <b>University of Florida</b> </li>
-  <li>Previously: Data Scientist / ML Engineer @ <b>Systems Limited</b>, building LLM/RAG and classic ML solutions for global clients.</li>
-  <li>I enjoy bridging <b>product needs</b> and <b>ML systems</b>—from data pipelines → modeling → evaluation → deployment.</li>
-  <li>Read more in my <a href="docs/Ahmer_Jamil.pdf"><b>CV / Resume</b></a>.</li>
+  <li><b>PhD student</b> in Fault Tolerance & Reliable Machine Learning at the <b>University of Florida</b>.</li>
+  <li>Previously: Data Scientist / ML Engineer @ <b>Systems Limited</b>, delivering LLM/RAG and classic ML solutions for global clients.</li>
+  <li>I enjoy bridging <b>product</b> ↔ <b>ML systems</b>—from data pipelines → modeling → evaluation → deployment.</li>
+  <li>Read more in my <a href="Ahmer_Jamil.pdf"><b>CV / Resume</b></a>.</li>
 </ul>
 
 <!-- LIVE CARDS -->
@@ -85,17 +85,23 @@
   <text x="602" y="173" font-size="11" fill="#111" text-anchor="end">77</text>
 </svg>
 
+<!-- DEMO / GIF -->
+<h2>🎥 ML Explainer Demo</h2>
+<p>
+  <img alt="Neural net forward-pass explainer" src="nn.gif" width="720" />
+</p>
+
 <!-- PROJECT HIGHLIGHTS -->
 <h2>🚀 Selected Work</h2>
 <table>
   <tr>
     <td width="30%">
-      <img alt="Chatbot / Conversational AI" src="https://source.unsplash.com/featured/600x360/?chatbot,conversation,ai" />
+      <img alt="Chatbot / Conversational AI" src="chatbot.jpg" />
     </td>
     <td>
       <h3>Chatbot Creation (LLMs + RAG)</h3>
       <ul>
-        <li>Domain-grounded assistants using retrieval augmentation (vector search, hybrid search).</li>
+        <li>Domain-grounded assistants using retrieval augmentation (vector & hybrid search).</li>
         <li>Prompt engineering & guardrails for safe, helpful responses.</li>
         <li>Evaluation for groundedness, latency, and task success.</li>
       </ul>
@@ -103,40 +109,40 @@
   </tr>
   <tr>
     <td>
-      <img alt="Customer Profiling Classification" src="https://source.unsplash.com/featured/600x360/?data,classification,analytics" />
+      <img alt="Customer Profiling Classification" src="Customer_Seg.jpg" />
     </td>
     <td>
       <h3>Customer Profiling (Classification)</h3>
       <ul>
         <li>Supervised learning on behavioral & demographic features.</li>
-        <li>Modeling with tree ensembles & calibrated probabilities for segmentation.</li>
+        <li>Calibrated probabilities & tree ensembles for segmentation.</li>
         <li>Feature importance & SHAP to inform marketing actions.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <img alt="Customer Churn Prediction" src="https://source.unsplash.com/featured/600x360/?customer,retention,churn" />
+      <img alt="Customer Churn Prediction" src="Churn.jpg" />
     </td>
     <td>
       <h3>Customer Churn Prediction</h3>
       <ul>
-        <li>Time-aware features (recency/frequency/monetary, tenure, ticket history).</li>
-        <li>Pipeline: data cleaning → modeling → uplift analysis for retention strategy.</li>
+        <li>Time-aware features (RFM, tenure, ticket history).</li>
+        <li>Pipeline: data cleaning → modeling → uplift analysis for retention.</li>
         <li>Monitored drift & cohort shifts in production.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <img alt="GNN for Fault Tolerance in HPC" src="https://source.unsplash.com/featured/600x360/?supercomputer,graph,neural,network" />
+      <img alt="GNN for Fault Tolerance in HPC" src="fault.jpg" />
     </td>
     <td>
       <h3>Fault Tolerance in HPC (ML + GNN)</h3>
       <ul>
-        <li>Graph modeling of program IR & data dependencies (e.g., GraphSAGE).</li>
-        <li>Predicting silent data corruption (SDC) and propagation risk.</li>
-        <li>Insights to prioritize hardening and testing in high-performance pipelines.</li>
+        <li>Graph modeling of program IR & data dependencies (GraphSAGE/GIN).</li>
+        <li>Predicting silent data corruption (SDC) & propagation risk.</li>
+        <li>PhD research focus: reliability insights to prioritize hardening/testing in HPC pipelines.</li>
       </ul>
     </td>
   </tr>
@@ -148,4 +154,3 @@
   I’m open to roles and collaborations in <b>ML Engineering</b>, <b>LLMs/RAG</b>, and <b>Data Science</b>.
   <br/>Reach me at <a href="mailto:ahmerjamil.aj@gmail.com">ahmerjamil.aj@gmail.com</a> or on <a href="https://www.linkedin.com/in/ahmer-jamil582000">LinkedIn</a>.
 </p>
-
