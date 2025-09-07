@@ -8,7 +8,7 @@
 <!-- HERO -->
 <div align="center">
   <h1>Ahmer Jamil</h1>
-  <p><b>PhD (Fault Tolerance & Reliable ML) • ML Engineer • Data Scientist</b></p>
+  <p><b>PhD (Fault Tolerance) • ML Engineer • Data Scientist</b></p>
   <p>
     <a href="mailto:ahmerjamil.aj@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ahmerjamil.aj%40gmail.com-1f6feb?logo=gmail"></a>
     <a href="https://www.linkedin.com/in/ahmer-jamil582000"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmer%20Jamil-0a66c2?logo=linkedin"></a>
@@ -24,7 +24,7 @@
 
 <!-- TAGLINE -->
 <p align="center">
-  PhD student (Fault Tolerance & Reliable ML) @ <b>University of Florida</b> • Former Data Scientist / ML Engineer @ <b>Systems Limited</b> <br/>
+  Graduate student @ <b>University of Florida</b> • Former Data Scientist / ML Engineer @ <b>Systems Limited</b> <br/>
   I build <b>LLM</b> + <b>ML</b> solutions powered by clean data, pragmatic MLOps, and measurable business impact.
 </p>
 
@@ -43,7 +43,7 @@
 <!-- ABOUT -->
 <h2>👋 About Me</h2>
 <ul>
-  <li><b>PhD student</b> in Fault Tolerance & Reliable Machine Learning at the <b>University of Florida</b>.</li>
+  <li><b>PhD student</b> in Fault Tolerance in High Performance Computing at the <b>University of Florida</b>.</li>
   <li>Previously: Data Scientist / ML Engineer @ <b>Systems Limited</b>, delivering LLM/RAG and classic ML solutions for global clients.</li>
   <li>I enjoy bridging <b>product</b> ↔ <b>ML systems</b>—from data pipelines → modeling → evaluation → deployment.</li>
   <li>Read more in my <a href="Ahmer_Jamil.pdf"><b>CV / Resume</b></a>.</li>
