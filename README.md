@@ -1,6 +1,5 @@
 <!-- COVER / HIGHLIGHT -->
 <p align="center">
-  <!-- Full-width banner; keep the GIF filename exactly "nn.gif" in repo root -->
   <a href="nn.gif">
     <img src="nn.gif" alt="Neural Network Forward-Pass Explainer" width="100%">
   </a>
@@ -9,7 +8,7 @@
 <!-- HERO -->
 <div align="center">
   <h1>Ahmer Jamil</h1>
-  <p><b>PhD (Fault Tolerance) • ML Engineer • Data Scientist</b></p>
+  <p><b>PhD (Fault Tolerance & Reliable ML) • ML Engineer • Data Scientist</b></p>
   <p>
     <a href="mailto:ahmerjamil.aj@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ahmerjamil.aj%40gmail.com-1f6feb?logo=gmail"></a>
     <a href="https://www.linkedin.com/in/ahmer-jamil582000"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmer%20Jamil-0a66c2?logo=linkedin"></a>
@@ -25,8 +24,8 @@
 
 <!-- TAGLINE -->
 <p align="center">
-  Graduate Student  @ <b>University of Florida</b> • Former Data Scientist / ML Engineer @ <b>Systems Limited</b> <br/>
-  I build <b>ML</b> + <b>Data</b> solutions powered by clean data, pragmatic MLOps, and measurable business impact.
+  PhD student (Fault Tolerance & Reliable ML) @ <b>University of Florida</b> • Former Data Scientist / ML Engineer @ <b>Systems Limited</b> <br/>
+  I build <b>LLM</b> + <b>ML</b> solutions powered by clean data, pragmatic MLOps, and measurable business impact.
 </p>
 
 <!-- QUICK FACTS -->
@@ -44,7 +43,7 @@
 <!-- ABOUT -->
 <h2>👋 About Me</h2>
 <ul>
-  <li><b>PhD student</b> in Fault Tolerance at the <b>University of Florida</b>.</li>
+  <li><b>PhD student</b> in Fault Tolerance & Reliable Machine Learning at the <b>University of Florida</b>.</li>
   <li>Previously: Data Scientist / ML Engineer @ <b>Systems Limited</b>, delivering LLM/RAG and classic ML solutions for global clients.</li>
   <li>I enjoy bridging <b>product</b> ↔ <b>ML systems</b>—from data pipelines → modeling → evaluation → deployment.</li>
   <li>Read more in my <a href="Ahmer_Jamil.pdf"><b>CV / Resume</b></a>.</li>
@@ -60,38 +59,12 @@
   <img alt="Streak" height="170" src="https://streak-stats.demolab.com?user=ahmerjamilaj&hide_border=true" />
 </p>
 
-<!-- INLINE SVG MICRO-VIZ: Skill Snapshot -->
+<!-- SKILL SNAPSHOT -->
 <h2>🧠 Skill Snapshot</h2>
 <p>Relative comfort across my day-to-day stack (toy visualization):</p>
-
-<svg width="720" height="220" viewBox="0 0 720 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Skill Snapshot</title>
-  <desc id="desc">Relative skill levels for Python, PyTorch, NLP/LLMs, Data Engineering, and MLOps.</desc>
-  <line x1="120" y1="20" x2="120" y2="200" stroke="#aaa"/>
-  <line x1="120" y1="200" x2="690" y2="200" stroke="#aaa"/>
-  <text x="110" y="205" font-size="12" fill="#666" text-anchor="end">0</text>
-  <text x="690" y="215" font-size="12" fill="#666" text-anchor="end">100</text>
-
-  <text x="110" y="50" font-size="12" fill="#555" text-anchor="end">Python</text>
-  <rect x="120" y="40" width="552" height="18" fill="#1f6feb" opacity="0.85"/>
-  <text x="680" y="53" font-size="11" fill="#111" text-anchor="end">92</text>
-
-  <text x="110" y="80" font-size="12" fill="#555" text-anchor="end">PyTorch</text>
-  <rect x="120" y="70" width="510" height="18" fill="#8250df" opacity="0.85"/>
-  <text x="640" y="83" font-size="11" fill="#111" text-anchor="end">85</text>
-
-  <text x="110" y="110" font-size="12" fill="#555" text-anchor="end">NLP / LLMs</text>
-  <rect x="120" y="100" width="528" height="18" fill="#0969da" opacity="0.85"/>
-  <text x="660" y="113" font-size="11" fill="#111" text-anchor="end">88</text>
-
-  <text x="110" y="140" font-size="12" fill="#555" text-anchor="end">Data Engineering</text>
-  <rect x="120" y="130" width="480" height="18" fill="#218bff" opacity="0.85"/>
-  <text x="620" y="143" font-size="11" fill="#111" text-anchor="end">80</text>
-
-  <text x="110" y="170" font-size="12" fill="#555" text-anchor="end">MLOps</text>
-  <rect x="120" y="160" width="462" height="18" fill="#54aeff" opacity="0.85"/>
-  <text x="602" y="173" font-size="11" fill="#111" text-anchor="end">77</text>
-</svg>
+<p align="center">
+  <img src="skill_snapshot.svg" alt="Skill Snapshot" width="720">
+</p>
 
 <!-- PROJECT HIGHLIGHTS -->
 <h2>🚀 Selected Work</h2>
@@ -140,7 +113,7 @@
       <img alt="GNN for Fault Tolerance in HPC" src="fault.jpg" />
     </td>
     <td>
-      <h3>Fault Tolerance in HPC (ML)</h3>
+      <h3>Fault Tolerance in HPC (ML + GNN)</h3>
       <ul>
         <li>Graph modeling of program IR & data dependencies (GraphSAGE/GIN).</li>
         <li>Predicting silent data corruption (SDC) & propagation risk.</li>
