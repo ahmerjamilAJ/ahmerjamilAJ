@@ -1,3 +1,11 @@
+<!-- COVER / HIGHLIGHT -->
+<p align="center">
+  <!-- Full-width banner; keep the GIF filename exactly "nn.gif" in repo root -->
+  <a href="nn.gif">
+    <img src="nn.gif" alt="Neural Network Forward-Pass Explainer" width="100%">
+  </a>
+</p>
+
 <!-- HERO -->
 <div align="center">
   <h1>Ahmer Jamil</h1>
@@ -84,12 +92,6 @@
   <rect x="120" y="160" width="462" height="18" fill="#54aeff" opacity="0.85"/>
   <text x="602" y="173" font-size="11" fill="#111" text-anchor="end">77</text>
 </svg>
-
-<!-- DEMO / GIF -->
-<h2>🎥 ML Explainer Demo</h2>
-<p>
-  <img alt="Neural net forward-pass explainer" src="nn.gif" width="720" />
-</p>
 
 <!-- PROJECT HIGHLIGHTS -->
 <h2>🚀 Selected Work</h2>
