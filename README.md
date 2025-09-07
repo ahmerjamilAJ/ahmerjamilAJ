@@ -6,7 +6,7 @@
     <a href="mailto:ahmerjamil.aj@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ahmerjamil.aj%40gmail.com-1f6feb?logo=gmail"></a>
     <a href="https://www.linkedin.com/in/ahmer-jamil582000"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmer%20Jamil-0a66c2?logo=linkedin"></a>
     <a href="https://ahmerjamilaj.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-Portfolio-111?logo=vercel"></a>
-    <a href="docs/Ahmer_Jamil.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-cc0000?logo=adobeacrobatreader"></a>
+    <a href="Ahmer_Jamil.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-cc0000?logo=adobeacrobatreader"></a>
   </p>
   <p>
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ahmerjamilaj&style=flat&color=1f6feb">
