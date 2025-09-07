@@ -63,7 +63,7 @@
 <h2>🧠 Skill Snapshot</h2>
 <p>Relative comfort across my day-to-day stack (toy visualization):</p>
 <p align="center">
-  <img src="skill_snapshot.svg" alt="Skill Snapshot" width="720">
+  <img src="skill.png" alt="Skill Snapshot" width="720">
 </p>
 
 <!-- PROJECT HIGHLIGHTS -->
